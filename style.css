@@ -6,7 +6,7 @@ html, body {
 body {
   background: url(Images/243D116B-301A-457E-B2E1-9120771FDB4D_1_105_c.jpeg) center no-repeat;
   background-size: cover;
-  background-attachment: f;
+  background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
